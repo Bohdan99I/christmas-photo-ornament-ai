@@ -28,5 +28,11 @@
 У блоці **Text-to-Image**:
 - натисніть **View**
 - оберіть модель **Nano banana pro**
+---
+## 🧩 Крок 4. Введіть промпт
+
+```
+Ultra-detailed Christmas tree ornament based on the person from the reference photo, glossy miniature figurine made of glass and resin, hanging on a Christmas tree branch with soft fairy lights in the background, exact facial features preserved from the photo, festive winter outfit, warm cinematic lighting, shallow depth of field, photorealistic, high detail, luxury holiday decoration, 8K, soft bokeh, realistic reflections
+```
 
 ---
