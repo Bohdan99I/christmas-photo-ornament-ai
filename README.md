@@ -36,3 +36,8 @@ Ultra-detailed Christmas tree ornament based on the person from the reference ph
 ```
 
 ---
+## 🧩 Крок 5. Завантажте фото
+
+Натисніть **+ Insert images** і завантажте чітке фото з добре видимим обличчям.
+
+---
