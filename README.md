@@ -44,3 +44,6 @@ Ultra-detailed Christmas tree ornament based on the person from the reference ph
 
 Натисніть **Run** — і магія розпочнеться ✨
 ---
+## 🧩 Крок 7. Завантажте результат
+
+---
