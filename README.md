@@ -47,3 +47,8 @@ Ultra-detailed Christmas tree ornament based on the person from the reference ph
 ## 🧩 Крок 7. Завантажте результат
 
 ---
+## 🎬 Крок 8. Анімація
+
+👉 https://grok.com/imagine
+
+```
