@@ -52,3 +52,7 @@ Ultra-detailed Christmas tree ornament based on the person from the reference ph
 👉 https://grok.com/imagine
 
 ```
+Animated Christmas scene in warm festive lighting. Soft bokeh lights in the background, detailed pine branches in the foreground.
+A realistic hand gently lifts and sways the ornament.
+Warm cozy atmosphere, realistic reflections.
+```
